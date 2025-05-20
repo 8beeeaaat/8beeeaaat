@@ -13,7 +13,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=nodejs,tauri,html,css,sass,js,ts,vite,vitest,webpack,babel,bun,d3,threejs,react,vue,next,prisma,supabase,figma,go,perl,docker,gcp,sentry" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=go,perl,docker,gcp,githubactions,mysql,mongodb,sentry,rust,nodejs,tauri,html,css,sass,tailwind,bootstrap,materialui,js,ts,vite,vitest,jest,webpack,babel,bun,d3,threejs,react,vue,next,prisma,supabase,figma" />
 <br>
 
 
